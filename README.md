@@ -35,14 +35,14 @@ A fully functional, responsive Quiz Application built with **Vite + React**, **N
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
-   cd quiz-app
+   git clone https://github.com/Ganesh-PC018/quiz_app_causal_funnel.git
+   cd quiz_app_causal_funnel
    ```
 
 2. **Install frontend dependencies:**
 
    ```bash
-   cd client
+   cd frontend
    npm install
    ```
 
@@ -71,7 +71,7 @@ A fully functional, responsive Quiz Application built with **Vite + React**, **N
    * Frontend:
 
      ```bash
-     cd ../client
+     cd ../frontend
      npm run dev
      ```
 
@@ -81,7 +81,7 @@ A fully functional, responsive Quiz Application built with **Vite + React**, **N
 
 ```
 quiz-app/
-├── client/        # React frontend (Vite)
+├── frontend/              # React frontend (Vite)
 │   └── ...
 ├── server/                 # Node.js backend
 │   └── ...
